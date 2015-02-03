@@ -10,19 +10,7 @@ h1 {
     color: royalblue;
 }
 
-.firstbutton {
-    height: 50px;
-    width: 500px;
-    font-size: 1.5rem;
-    font-family: helvetica;
-    color: white;
-    border-radius: 5px;
-    background-color: royalblue; 
-    margin: auto;
-    display: block; 
-}
-
-.secondbutton {
+.button {
     height: 50px;
     width: 500px;
     font-size: 1.5rem;
