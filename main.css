@@ -1,0 +1,43 @@
+h1 {
+    font-size: 3.5rem;
+    font-family: helvetica;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
+
+.stylish {
+    color: royalblue;
+}
+
+.firstbutton {
+    height: 50px;
+    width: 500px;
+    font-size: 1.5rem;
+    font-family: helvetica;
+    color: white;
+    border-radius: 5px;
+    background-color: royalblue; 
+    margin: auto;
+    display: block; 
+}
+
+.secondbutton {
+    height: 50px;
+    width: 500px;
+    font-size: 1.5rem;
+    font-family: helvetica;
+    color: white;
+    border-radius: 5px;
+    background-color: royalblue; 
+    margin: auto;
+    display: block; 
+}
+
+p {
+    font-size: 2rem;
+    font-family: helvetica;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
