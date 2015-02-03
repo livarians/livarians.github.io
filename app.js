@@ -1,4 +1,10 @@
 $(document).ready(function(){
+    $("#0").click(function(){
+		document.getElementById('title').style.color = '#'+Math.floor(Math.random()*16777215).toString(16);
+    });
+});
+
+$(document).ready(function(){
     $("#1").click(function (){
         $("h1").addClass('stylish');
     });
