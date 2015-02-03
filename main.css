@@ -22,10 +22,11 @@ h1 {
     display: block; 
 }
 
-p {
+p, li {
     font-size: 2rem;
     font-family: helvetica;
     margin: auto;
     text-align: center;
     padding: 30px;
+    list-style-type: none;
 }

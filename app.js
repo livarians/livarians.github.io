@@ -23,7 +23,12 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $("#4").click(function(){
-        alert($("h1").hasClass("stylish"));
+    $("#html").click(function(){
+        $("#copy").html('It copies the text!');
     });
+    $("#remove").click(function(){
+        $("li:last").remove();
+    })
 });
+
+
