@@ -1,0 +1,56 @@
+h1 {
+    font-size: 3.5rem;
+    font-family: helvetica;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
+
+.stylish {
+    color: royalblue;
+}
+
+.buttona {
+    height: 50px;
+    width: 500px;
+    font-size: 1.5rem;
+    font-family: helvetica;
+    color: white;
+    border-radius: 5px;
+    background-color: royalblue; 
+    margin: auto;
+    display: block; 
+}
+
+.buttonb {
+    height: 50px;
+    width: 500px;
+    font-size: 1.5rem;
+    font-family: helvetica;
+    color: white;
+    border-radius: 5px;
+    background-color: #e15a5a; 
+    margin: auto;
+    display: block; 
+}
+
+.buttonc {
+    height: 50px;
+    width: 500px;
+    font-size: 1.5rem;
+    font-family: helvetica;
+    color: white;
+    border-radius: 5px;
+    background-color: #51e5ac; 
+    margin: auto;
+    display: block; 
+}
+
+p, li {
+    font-size: 2rem;
+    font-family: helvetica;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    list-style-type: none;
+}
