@@ -74,3 +74,29 @@ $("#btn0").click(function(){
         $("#box").animate({width: "60px"});
         $("#box").animate({width: "25px", height: "25px"});
     });
+
+
+$(function() {
+    $("#animationButton").click(function() {
+        $("#effect").animate({
+          backgroundColor: "#15e9e9",
+          color: "#fff",
+        });
+        $("#effect").animate({
+          backgroundColor: "#eed938",
+        });
+        $("#effect").animate({
+          backgroundColor: "#9b47f0",
+        });
+        $("#effect").animate({
+          backgroundColor: "#f57e0f",
+        });
+        $("#effect").animate({
+          backgroundColor: "##35f50f",
+        });
+        $("#effect").animate({
+          backgroundColor: "#2f322e",
+            color: "white"
+        });
+    });
+});
