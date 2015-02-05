@@ -30,3 +30,50 @@ p, li {
     padding: 30px;
     list-style-type: none;
 }
+
+/*
+#animationButton { 
+    width: 500px; 
+    height: 200px; 
+    position: relative; 
+}
+*/
+
+/*
+#button { 
+    padding: .5em 1em; 
+    text-decoration: none; 
+}
+*/
+/*
+#effect { 
+    width: 500px; 
+    height: 200px; 
+    padding: 0.4em; 
+    position: absolute; 
+    background: #fff; 
+    
+}
+*/
+
+#effect h3 { 
+    margin: 0;
+    padding: 0.4em; 
+    text-align: center; 
+}
+
+
+#animation1 {
+    display: block;
+    margin: auto;
+    position: absolute;
+}
+
+
+#circle-block {
+    height: 600px;
+}
+
+
+
+
