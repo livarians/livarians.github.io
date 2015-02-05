@@ -66,3 +66,35 @@ p, li {
     padding: 30px;
     list-style-type: none;
 }
+
+.button {
+    height: 50px;
+    width: 500px;
+    font-size: 1.5rem;
+    font-family: helvetica;
+    color: white;
+    border-radius: 5px;
+    background-color: royalblue; 
+    margin: auto;
+    display: block; 
+}
+
+
+#effect h3 { 
+    margin: 0;
+    padding: 0.4em; 
+    text-align: center; 
+}
+
+
+#animation1 {
+    display: block;
+    margin: auto;
+    position: absolute;
+}
+
+
+#circle-block {
+    height: 600px;
+}
+
